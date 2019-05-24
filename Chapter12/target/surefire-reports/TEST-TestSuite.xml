@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="14.107" tests="7" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_161\jre\bin"/>
+    <property name="java.vm.version" value="25.161-b12"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\AutoTest"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\AutoTest\Chapter12"/>
+    <property name="java.runtime.version" value="1.8.0_161-b12"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_161\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\ADMINI~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="D:\用户目录\下载\apache-maven-3.6.0\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_161\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;D:\用户目录\下载\apache-maven-3.6.0/bin;C:\Program Files\Redis\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Java\jdk1.8.0_161\jre\bin;C:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;C:\Users\Administrator\AppData\Local\Programs\Fiddler;."/>
+    <property name="maven.conf" value="D:\用户目录\下载\apache-maven-3.6.0\bin\../conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.1"/>
+    <property name="library.jansi.path" value="D:\用户目录\下载\apache-maven-3.6.0\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\Administrator"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="user.name" value="Administrator"/>
+    <property name="java.class.path" value="D:\用户目录\下载\apache-maven-3.6.0\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_161\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean package"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="zh"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_161"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_161\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_161\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_161\jre\classes"/>
+    <property name="sun.stderr.encoding" value="ms936"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\用户目录\下载\apache-maven-3.6.0\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.stdout.encoding" value="ms936"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="loginTrue" classname="com.course.cases.LoginTest" time="1.229"/>
+  <testcase name="loginFalse" classname="com.course.cases.LoginTest" time="0.105"/>
+  <testcase name="addUser" classname="com.course.cases.AddUserTest" time="3.883">
+    <failure message="Expected one result (or null) to be returned by selectOne(), but found: 3" type="org.apache.ibatis.exceptions.TooManyResultsException">org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 3
+	at com.course.cases.AddUserTest.addUser(AddUserTest.java:33)
+</failure>
+    <system-out><![CDATA[15:49:34.458 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+15:49:34.458 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+15:49:34.458 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+15:49:34.458 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+15:49:34.486 [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+15:49:34.500 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 1752461090.
+15:49:34.501 [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@68746f22]
+15:49:34.501 [main] DEBUG com.course.model.addUserCase - ==>  Preparing: select * from addusercase where id=?; 
+15:49:34.502 [main] DEBUG com.course.model.addUserCase - ==> Parameters: 1(Integer)
+15:49:34.506 [main] DEBUG com.course.model.addUserCase - <==      Total: 1
+AddUserCase(userName=zhao9, password=zhaozhao, sex=0, age=35, permission=1, isDelete=0, expected=true)
+http://localhost:8888/v1/addUser
+15:49:34.506 [main] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Get connection for route {}->http://localhost:8888
+15:49:34.507 [main] DEBUG org.apache.http.impl.client.DefaultHttpClient - Stale connection check
+15:49:34.508 [main] DEBUG org.apache.http.client.protocol.RequestAddCookies - CookieSpec selected: default
+15:49:34.508 [main] DEBUG org.apache.http.client.protocol.RequestAddCookies - Cookie [version: 0][name: login][value: true][domain: localhost][path: /v1][expiry: null] match [localhost:8888/v1/addUser]
+15:49:34.508 [main] DEBUG org.apache.http.client.protocol.RequestAuthCache - Auth cache not set in the context
+15:49:34.508 [main] DEBUG org.apache.http.client.protocol.RequestTargetAuthentication - Target auth state: UNCHALLENGED
+15:49:34.508 [main] DEBUG org.apache.http.client.protocol.RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+15:49:34.508 [main] DEBUG org.apache.http.impl.client.DefaultHttpClient - Attempt 1 to execute request
+15:49:34.508 [main] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Sending request: POST /v1/addUser HTTP/1.1
+15:49:34.509 [main] DEBUG org.apache.http.wire -  >> "POST /v1/addUser HTTP/1.1[\r][\n]"
+15:49:34.509 [main] DEBUG org.apache.http.wire -  >> "content-type: application/json[\r][\n]"
+15:49:34.509 [main] DEBUG org.apache.http.wire -  >> "Content-Length: 95[\r][\n]"
+15:49:34.509 [main] DEBUG org.apache.http.wire -  >> "Host: localhost:8888[\r][\n]"
+15:49:34.509 [main] DEBUG org.apache.http.wire -  >> "Connection: Keep-Alive[\r][\n]"
+15:49:34.509 [main] DEBUG org.apache.http.wire -  >> "User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_161)[\r][\n]"
+15:49:34.509 [main] DEBUG org.apache.http.wire -  >> "Cookie: login=true[\r][\n]"
+15:49:34.509 [main] DEBUG org.apache.http.wire -  >> "[\r][\n]"
+15:49:34.509 [main] DEBUG org.apache.http.headers - >> POST /v1/addUser HTTP/1.1
+15:49:34.509 [main] DEBUG org.apache.http.headers - >> content-type: application/json
+15:49:34.510 [main] DEBUG org.apache.http.headers - >> Content-Length: 95
+15:49:34.510 [main] DEBUG org.apache.http.headers - >> Host: localhost:8888
+15:49:34.510 [main] DEBUG org.apache.http.headers - >> Connection: Keep-Alive
+15:49:34.510 [main] DEBUG org.apache.http.headers - >> User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_161)
+15:49:34.510 [main] DEBUG org.apache.http.headers - >> Cookie: login=true
+15:49:34.510 [main] DEBUG org.apache.http.wire -  >> "{"password":"zhaozhao","isDelete":"0","sex":"0","permission":"1","userName":"zhao9","age":"35"}"
+15:49:34.528 [main] DEBUG org.apache.http.wire -  << "HTTP/1.1 200 [\r][\n]"
+15:49:34.528 [main] DEBUG org.apache.http.wire -  << "Content-Type: application/json;charset=UTF-8[\r][\n]"
+15:49:34.529 [main] DEBUG org.apache.http.wire -  << "Transfer-Encoding: chunked[\r][\n]"
+15:49:34.529 [main] DEBUG org.apache.http.wire -  << "Date: Thu, 23 May 2019 07:49:34 GMT[\r][\n]"
+15:49:34.529 [main] DEBUG org.apache.http.wire -  << "[\r][\n]"
+15:49:34.529 [main] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Receiving response: HTTP/1.1 200 
+15:49:34.529 [main] DEBUG org.apache.http.headers - << HTTP/1.1 200 
+15:49:34.529 [main] DEBUG org.apache.http.headers - << Content-Type: application/json;charset=UTF-8
+15:49:34.529 [main] DEBUG org.apache.http.headers - << Transfer-Encoding: chunked
+15:49:34.529 [main] DEBUG org.apache.http.headers - << Date: Thu, 23 May 2019 07:49:34 GMT
+15:49:34.529 [main] DEBUG org.apache.http.impl.client.DefaultHttpClient - Connection can be kept alive indefinitely
+15:49:34.530 [main] DEBUG org.apache.http.wire -  << "4[\r][\n]"
+15:49:34.530 [main] DEBUG org.apache.http.wire -  << "true"
+15:49:34.530 [main] DEBUG org.apache.http.wire -  << "[\r][\n]"
+15:49:34.530 [main] DEBUG org.apache.http.wire -  << "0[\r][\n]"
+15:49:34.530 [main] DEBUG org.apache.http.wire -  << "[\r][\n]"
+15:49:34.530 [main] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@68878f6d
+15:49:34.530 [main] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Connection can be kept alive indefinitely
+true
+15:49:38.530 [main] DEBUG com.course.model.addUser - ==>  Preparing: select * from user where userName=? and password=? and sex=? and age=? and permission=? and isDelete=? 
+15:49:38.530 [main] DEBUG com.course.model.addUser - ==> Parameters: zhao9(String), zhaozhao(String), 0(String), 35(String), 1(String), 0(String)
+15:49:38.534 [main] DEBUG com.course.model.addUser - <==      Total: 3
+]]></system-out>
+  </testcase>
+  <testcase name="getUserInfo" classname="com.course.cases.GetUserInfoTest" time="0.226"/>
+  <testcase name="deleteUser" classname="com.course.cases.UpdateUserInfoTest" time="4.022"/>
+  <testcase name="updateUserInfo" classname="com.course.cases.UpdateUserInfoTest" time="3.173"/>
+  <testcase name="getUserListInfo" classname="com.course.cases.GetUserInfoListTest" time="0.406"/>
+</testsuite>

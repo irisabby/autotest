@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 14.107 sec <<< FAILURE! - in TestSuite
+addUser(com.course.cases.AddUserTest)  Time elapsed: 3.883 sec  <<< FAILURE!
+org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 3
+	at com.course.cases.AddUserTest.addUser(AddUserTest.java:33)
+
